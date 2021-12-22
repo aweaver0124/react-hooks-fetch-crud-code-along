@@ -18,3 +18,6 @@ function App() {
 }
 
 export default App;
+
+// Header and Shopping List are direct children of App
+// Props of isDarkMode and onDarkModeClick are being passed from App to the Header Component 
